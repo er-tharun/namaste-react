@@ -1,0 +1,31 @@
+{
+  "name": "namste-react",
+  "version": "1.0.0",
+  "description": "This is namaste-rect by Tharun Ravi",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/er-tharun/namaste-react.git"
+  },
+  "keywords": [
+    "react",
+    "namaste-react",
+    "Tharun"
+  ],
+  "author": "Tharun Ravi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/er-tharun/namaste-react/issues"
+  },
+  "homepage": "https://github.com/er-tharun/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
